@@ -1,0 +1,11 @@
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.exe
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.deps.json
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.json
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.dev.json
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.dll
+D:\Humber Project\Final Exam\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.pdb
+D:\Humber Project\Final Exam\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csprojAssemblyReference.cache
+D:\Humber Project\Final Exam\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfoInputs.cache
+D:\Humber Project\Final Exam\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfo.cs
+D:\Humber Project\Final Exam\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.dll
+D:\Humber Project\Final Exam\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.pdb
